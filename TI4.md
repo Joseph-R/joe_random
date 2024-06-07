@@ -12,16 +12,17 @@ In order to play your best game and be considerate of all player's time, please 
 General Advice:
 * **Focus on the objectives!**  You win by completing objectives.  TI:4 is not a wargame, although it can appear that way at a glance.  Games can be played and won without a single combat taking place.  Tactical aggression can be good, but as a general rule every fight you did not _need_ to be involved in slows down your momentum and drains your resources.  The game has economic, political, and exploration mechanics that all help you win objectives.  Use them, and keep your eye on the prize.
 * Diplomacy and Trade - You'll have an easier game if you find at least one trade partner willing to wash your commodities and (hopefully) take steps to establish a peaceful border.  Consider who you might want to exchange Support for the Throne points with early on, especially if there is an odd number of players at the table.     
-* Tech - Blue tech focuses on mobility, and mobility is key to expanding out into your slice early, to scoring various objectives, and to getting your resources where they need to be for combat when the time comes.
+* Tech - Blue tech focuses on mobility, and mobility is key to so much of the game that you will rarely go wrong choosing some blue tech round one or two.  
 * HP wins fights - If you _have_ to fight you want to win, right?  Play around with one of the [battle calculators](https://ti4battle.com/) if you get bored, but the takeaway is that your ability to take hits and outlast damage is the most consistently reliable way to win combat.  Tech and fancy/upgraded units are nice, but if you don't have the slickest faction abilities or you're struggling to ugprade tech, then building big/cheap fleets and stacking up lots of HP is a great way to take and hold territory.
+* Stay in it until the end!  The game is long, and there are many paths to victory.  The front runners may trip each other up at the end, opening the door for you to sneak in a win from behind.  
 
 
 ### Organizing Game Days
-One of us typically sends out a "save the date" calendar invite for the next game a few weeks in advance.  We gather RSVPs and feedback and adjust date/time/location to suit the group's feedback.  Then we send out an updated invite to the players who have RSVPed with the location, start time, and any other particulars.  
+We send out a "save the date" calendar invite for the next game a few weeks in advance.  We gather RSVPs and feedback and adjust date/time/location to suit the group's feedback.  Then we send out an updated invite to the players who have RSVPed with the location, start time, and any other particulars.  
 
 For async comms, we have a group chat running on Facebook Messenger.  If you are not already in the chat and would like to be, please ask any group member for an invite.  We may organize other games or events through the Messenger chat as things come up. 
 
-In the event we get too many players responding, player seats will be reserved on a "first come, first served" basis re: RSVPs.  So please be sure to RSVP promptly when you are sure you can commit to a game day.    
+In the event we get too many players responding, player seats will be reserved on a "first come, first served" basis.  So please be sure to RSVP promptly when you are sure you can commit to a game day.    
 
 
 ### Keeping it Fresh
