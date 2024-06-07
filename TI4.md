@@ -37,9 +37,9 @@ Optional game modes, community content, etc to keep things fresh.  If we are pla
 
 ### Links and Resources
 * How to Play
-- RTFM - [How to Play TI:4](https://www.youtube.com/watch?v=_u2xEap5hBM) + [PoK](https://www.youtube.com/watch?v=AltGwY-bmfY)
-- Cardboard Crash Course - [How to play TI:4 + PoK](https://www.youtube.com/watch?v=vYtXkU0Zd6k) 
+    - RTFM - [How to Play TI:4](https://www.youtube.com/watch?v=_u2xEap5hBM) + [PoK](https://www.youtube.com/watch?v=AltGwY-bmfY)
+    - Cardboard Crash Course - [How to play TI:4 + PoK](https://www.youtube.com/watch?v=vYtXkU0Zd6k) 
 * Utilities
-- TI Rules: Searchable living rules updated with feedback from game devs over the years.  
-- Milty Draft: A popular drafting tool for online and competitive play.  
-- TI Assistant: Makes it easier to track revealed/scored objectives, victory points, etc for your game on everyone's phone/iPad.  
+    - TI Rules: Searchable living rules updated with feedback from game devs over the years.  
+    - Milty Draft: A popular drafting tool for online and competitive play.  
+    - TI Assistant: Makes it easier to track revealed/scored objectives, victory points, etc for your game on everyone's phone/iPad.  
