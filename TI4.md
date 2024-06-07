@@ -5,7 +5,7 @@
 Welcome!  This is a friendly group.  We champion "The Rule of Fun" and are happy to help new players out.  The early rounds of TI:4 tend to be more about exploring/expanding than conflict anyways, which naturally makes them pretty beginner friendly so you can get comfortable with the mechanics.  We're usually pretty liberal with mulligans and such in rounds 1-2.  
 
 In order to play your best game and be considerate of all player's time, please do the following:
-*  Take 30-60m and brush up on the core mechanics and rules before you arrive.  If we're doing a draft, you may also want to review your faction's special abilities.  Ton of content online and on YouTube for this. Please find some helpful guides linked below.
+*  Take 30-60m and brush up on the core mechanics and rules before you arrive.  If we're doing a draft and you know your faction before game day, you may also want to review a faction guide to learn about their special abilities.  Ton of online content for this.  Please find some helpful guides linked below.
 *  Be punctual.  
 *  Be sure you can commit to a whole day of play.  Play time can vary wildly, between 4-12+ hours, depending on player count and any number of other variables.  We know it's a commitment, and we take steps to keep things moving. 
 
@@ -14,7 +14,7 @@ General Advice:
 * Diplomacy and Trade - You'll have an easier game if you find at least one trade partner willing to wash your commodities and (hopefully) take steps to establish a peaceful border.  Consider who you might want to exchange Support for the Throne points with early on, especially if there is an odd number of players at the table.     
 * Tech - Blue tech focuses on mobility, and mobility is key to so much of the game that you will rarely go wrong choosing some blue tech round one or two.  
 * HP wins fights - If you _have_ to fight you want to win, right?  Play around with one of the [battle calculators](https://ti4battle.com/) if you get bored, but the takeaway is that your ability to take hits and outlast damage is the most consistently reliable way to win combat.  Tech and fancy/upgraded units are nice, but if you don't have the slickest faction abilities or you're struggling to ugprade tech, then building big/cheap fleets and stacking up lots of HP is a great way to take and hold territory.
-* Stay in it until the end!  The game is long, and there are many paths to victory.  The front runners may trip each other up at the end, opening the door for you to sneak in a win from behind.  
+* Stay in it until the end!  There are many paths to victory.  The front runners may trip each other up at the end, opening the door for you to sneak in a win from behind.  
 
 
 ### Organizing Game Days
