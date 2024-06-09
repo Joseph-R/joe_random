@@ -1,10 +1,12 @@
 # Twilight Imperium 4
 
-The cruel Lazax, who ruled for generations, have been overthrown in an galactic civil war that left many of the strongest civilizations exhausted.  At the same time newer, upstart factions are vying for power, and ancient enemies have resurfaced.  Who will lead the galaxy now?  
+The cruel Lazax, who ruled for generations, have been overthrown in an galactic civil war spanning hundreds of years.  Many of the strongest civilizations that survived are exhausted.  At the same time newer, upstart factions are rising to power, ancient enemies have resurfaced, and new galactic threats have emerged.  Who will lead the galaxy into the new age?  
+
+![TI4 Splash Art](https://i.imgur.com/BnfajNu.jpeg)
 
 
 ### First Timers
-Welcome!  This is a friendly group.  We champion "The Rule of Fun" and are happy to help new players out.  The early rounds of TI:4 tend to be more about exploring/expanding than conflict anyways, which naturally makes them pretty beginner friendly so you can get comfortable with the mechanics.  We're usually pretty liberal with mulligans and such in rounds 1-2.  
+Welcome new folks!  This is a friendly group.  We champion "The Rule of Fun" and are happy to help new players out.  The early rounds of TI:4 tend to be more about exploring/expanding than conflict anyways, which naturally makes them pretty beginner friendly so you can get comfortable with the mechanics.  We're usually pretty liberal with mulligans and such in rounds 1-2.  
 
 In order to play your best game and be considerate of all player's time, please do the following:
 *  Take 30-60m and brush up on the core mechanics and rules before you arrive.  If we're doing a draft and you know your faction before game day, you may also want to review a faction guide to learn about their special abilities.  Ton of online content for this.  Please find some helpful guides linked below.
@@ -59,7 +61,7 @@ Listen, there's a lot going on in this game.  Things can get wonky, and every ga
     - Cardboard Crash Course - [How to play TI:4 + PoK](https://www.youtube.com/watch?v=vYtXkU0Zd6k) 
 * Utilities
     - [TI Rules](https://www.tirules.com/) - Searchable living rules updated with feedback from game devs over the years.
-        - [Living Rules Reference](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf) - 
+        - [Living Rules Reference](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf) 
         - [Unofficial Official FAQ](https://docs.google.com/document/d/1_93kw7KkzvAXoQAxRioxo7iAt-Ar6BMIxdNf4Lv25rI/edit) - Clarifications from the developer.
     - [Milty Draft](https://milty.shenanigans.be/) -  A popular drafting tool for online and competitive play.  
     - [TI Assistant](https://ti-assistant.com/) - Makes it easier to track revealed/scored objectives, victory points, etc for your game on everyone's phone/iPad.  
