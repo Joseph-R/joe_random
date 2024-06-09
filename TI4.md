@@ -1,6 +1,6 @@
 # Twilight Imperium 4
 
-The galaxy has overthrown the cruel Lazax, who ruled for generations, in a galaxy spanning civil war that left many of the strongest factions exhausted at the same time newer, upstart factions are vying for power.  Who will lead the galaxy now?  Find out, in Twilight Imperium: Fourth Edition!    
+The cruel Lazax, who ruled for generations, have been overthrown in an galactic civil war that left many of the strongest civilizations exhausted.  At the same time newer, upstart factions are vying for power, and ancient enemies have resurfaced.  Who will lead the galaxy now?  
 
 
 ### First Timers
@@ -11,7 +11,7 @@ In order to play your best game and be considerate of all player's time, please 
 *  Be punctual.  
 *  Be sure you can commit to a whole day of play.  Play time can vary wildly, between 4-12+ hours, depending on player count and any number of other variables.  We know it's a commitment, and we take steps to keep things moving. 
 
-General Advice:
+Beginner Advice:
 * **Focus on the objectives!**  - TI:4 is not a wargame or even an area control/king of the hill game, although it has dynamics of each and can appear that way at a glance.  You win by completing objectives.  Objectives are the boss.  Games can be played and won without a single combat taking place.  Tactical aggression can be good, but as a general rule every fight you did not _need_ to be involved in slows down your momentum and drains your resources.  The game has economic, political, and exploration mechanics that all help you win objectives.  Use them, and keep your eye on the prize.
 * Diplomacy and Trade - You'll have an easier game if you find at least one trade partner willing to wash your commodities and (hopefully) take steps to establish a peaceful border.  Consider who you might want to exchange Support for the Throne points with early on, especially if there is an odd number of players at the table.     
 * Tech - Movement is key.  Vanilla TI:4 guides leaned heavily into the Blue tech tree, which focuses on mobility and gatekept many unit upgrades.  Even in PoK, you will rarely go wrong choosing blue tech round one or two.  However the tech trees are more varied in the expansion, with AI Dev and Psychoarcheology opening up unit upgrade paths that had not previously been available.  
@@ -28,7 +28,7 @@ In the event we get too many players responding, player seats will be reserved o
 
 
 ### Keeping it Fresh
-TI:4 is an epic game with a lot of variety already built in through player factions, map setup, neighboring, and randomized objectives and agendas.  There's a lot of content here.  To mix it up even more, there are optional game modes, community content, and other modular changes we can pull in whenever we want.  These include the following:
+TI:4 is an epic game with a lot of variety already built in through player factions, map setup, neighboring, and randomized objectives and agendas.  There's a lot of content here.  To mix it up even more, there are optional game modes, community content, and other modular changes we can pull in.  These include the following:
 
 *  [4/4/4 to 12VP](https://www.youtube.com/watch?v=qIVU-4sjaXE) - Community variant where you play with four stage one objectives, four stage two objectives, and four secret objectives.  This accelerates point tempo, effectively speeding up the game.
 *  [Alliance Mode](https://twilight-imperium.fandom.com/wiki/Alliance_Game_Variant) - Optional playmode for alliances. 
@@ -36,9 +36,21 @@ TI:4 is an epic game with a lot of variety already built in through player facti
 *  [Absol's Relics](https://drive.google.com/drive/folders/1-E-Rnsb0VUoluRy5LrURZg2o2V8iw3gZ) - Community relic deck.  Includes tweaks to existing relics and adds some artwork.  Notably adds more Shards of the Throne relics, which grant a stealable victory point.  This can shorten the game and/or induce more conflict.
 *  [Minor Factions](https://x.com/CreussEmissary/status/1792421868885959064/photo/2) - Rumored content for a future codex or expansion.  
 *  [Age of Exploration](https://x.com/CreussEmissary/status/1792421868885959064/photo/1) - Rumored content for a future codex or expansion.
-
+*  [Feast or Famine (4P)](https://boardgamegeek.com/thread/2325692/4-player-ti4-feast-and-famine)
+*  [We're All Villains Here](https://www.youtube.com/watch?v=mFSyD5QyhqY) - Everyone plays a "bad" faction or galactic threat.
 
 Any particularly impactful changes to gameplay/strategy should be decided before we pick factions or select the map.  We will include any fun/random game mode changes in the game day invites so that people have time to prepare.
+
+
+### Rules We Forgot or Messed Up
+Listen, there's a lot going on in this game.  Things can get wonky, and every game is a "best effort" on behalf of the table.  We learn with experience.  Keeping this list as a scratchpad to remind us of things we goofed in games gone by.  
+
+* [Warfare secondary does not activate home system](https://www.tirules.com/R_warfare) - A strategy token is spent, but it is **not** placed in your home system.  
+* [Trade goods can be spent as resources/influence](https://twilight-imperium.fandom.com/wiki/Trade_Goods_%26_Commodities) - This includes following the secondary of Leadership.  But they cannot be used as influence for votes during the Agenda phase, unless another card/power allows that.
+* Starting Game Setup - Players place three command tokens in each of the tactics, fleet, and strategy pools.  Draw one secret objective. [No action cards](https://www.tirules.com/R_action_cards#:~:text=Players%20start%20the%20game%20with,dealt%20out%20in%20initiative%20order.), [no commodities](https://www.tirules.com/R_commodities).
+* [Production](https://www.tirules.com/R_production) - Each fighter/infantry build during a PRODUCTION tactical action counts against the production limit that turn.
+* [Sling Relay](https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay), Chaos Mapping, etc - These techs allow you [to produce a unit](https://www.tirules.com/R_producing_units), but **do not** use the tactical action PRODUCTION, so discounts from Sarween and AI Dev (or other abilities) do not apply, nor do any abilities triggered by using PRODUCTION.  The wording could be better here.
+* [Imperial allows you to replace unscored Secret Objectives](https://www.tirules.com/R_imperial) - If you have more than three, you may draw a new secret objective and discard an unscored one.
 
 
 ### Links and Resources
@@ -46,6 +58,8 @@ Any particularly impactful changes to gameplay/strategy should be decided before
     - RTFM - [How to Play TI:4](https://www.youtube.com/watch?v=_u2xEap5hBM) + [PoK](https://www.youtube.com/watch?v=AltGwY-bmfY)
     - Cardboard Crash Course - [How to play TI:4 + PoK](https://www.youtube.com/watch?v=vYtXkU0Zd6k) 
 * Utilities
-    - [TI Rules](https://www.tirules.com/) - Searchable living rules updated with feedback from game devs over the years.  
+    - [TI Rules](https://www.tirules.com/) - Searchable living rules updated with feedback from game devs over the years.
+        - [Living Rules Reference](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf) - 
+        - [Unofficial Official FAQ](https://docs.google.com/document/d/1_93kw7KkzvAXoQAxRioxo7iAt-Ar6BMIxdNf4Lv25rI/edit) - Clarifications from the developer.
     - [Milty Draft](https://milty.shenanigans.be/) -  A popular drafting tool for online and competitive play.  
     - [TI Assistant](https://ti-assistant.com/) - Makes it easier to track revealed/scored objectives, victory points, etc for your game on everyone's phone/iPad.  
