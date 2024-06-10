@@ -64,4 +64,5 @@ Listen, there's a lot going on in this game.  Things can get wonky, and every ga
         - [Living Rules Reference](https://images-cdn.fantasyflightgames.com/filer_public/51/55/51552c7f-c05c-445b-84bf-4b073456d008/ti10_pok_living_rules_reference_20_web.pdf) 
         - [Unofficial Official FAQ](https://docs.google.com/document/d/1_93kw7KkzvAXoQAxRioxo7iAt-Ar6BMIxdNf4Lv25rI/edit) - Clarifications from the developer.
     - [Milty Draft](https://milty.shenanigans.be/) -  A popular drafting tool for online and competitive play.  
-    - [TI Assistant](https://ti-assistant.com/) - Makes it easier to track revealed/scored objectives, victory points, etc for your game on everyone's phone/iPad.  
+    - [TI Assistant](https://ti-assistant.com/) - Makes it easier to track revealed/scored objectives, victory points, etc for your game on everyone's phone/iPad.
+    - [Faction Wishlist](https://docs.google.com/spreadsheets/d/1B43XJITCy9wkXD_i6VKTguIWjEZtcnFSywE3fD7128k/edit#gid=700089993) - Add your faction preferences and such if you'd like.  
