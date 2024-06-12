@@ -25,7 +25,8 @@ Beginner Advice:
     * HP wins fights - Play around with one of the [battle calculators](https://ti4battle.com/) if you get bored, but the takeaway is that your ability to take hits and outlast damage is the most consistently reliable way to win combat.  Tech and fancy/upgraded units are nice, but if you don't have the slickest faction abilities or you're struggling to ugprade tech, then building big/cheap fleets and stacking up lots of HP is a great way to take and hold territory.
     * Space Combat for Show, Ground Combat for Dough - If you're trying to take territory, winning the space combat and losing the ground combat doesn't do you much good.  You drove all this way across the galaxy and now you're just circling the parking lot.  If you're going to invade, bring enough ground forces to win the planet.  
     * Don't forget retreats!  Not every combat is to the death.  Retreats save your resources, and can be part of deals to swap planets/systems, or that help a faction get XYZ thing they need ("win a combat", "destroy/capture a unit", whatever) or even a sneaky forward move in the case of Dark Energy Tap or similar ability.
-* Stay in it until the end!  There are many paths to victory.  The front runners may trip each other up at the end, opening the door for you to sneak in a win from behind.  "Classic TI!"  Imperial can be a great catch up strategy if you fall behind on objective tempo in the early game.
+* Stay in it until the end!  There are many paths to victory.  The front runners may trip each other up at the end, opening the door for you to sneak in a win from behind.  ["That's SO Twilight Imperium!"](https://www.youtube.com/watch?v=PLybps39ZwM&t=376s)
+    * Imperial can be a great catch up strategy if you fall behind on objective tempo in the early game.
 
 
 ### Organizing Game Days
