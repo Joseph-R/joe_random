@@ -6,35 +6,38 @@ The cruel Lazax, who ruled for generations, have been overthrown in an galactic 
 
 
 ### First Timers
-Welcome new players!  This is a friendly group.  We champion "The Rule of Fun" and are happy to help you out.  The early rounds of TI:4 tend to be more focused on exploring/expanding than conflict, which makes them pretty beginner friendly so you can get comfortable with the mechanics.  We're usually pretty liberal with mulligans in rounds 1-2 as well.
+Welcome new players!  This is a friendly group.  We champion "The Rule of Fun" and are happy to help you out.  The early rounds of TI:4 tend to be more focused on exploring/expanding than conflict, which keeps them beginner friendly and gives new players time to get comfortable with the mechanics.  We're usually pretty liberal with mulligans in rounds 1-2 as well.  
 
-In order to play your best game and be considerate of all players' time, please do the following:
-*  Take 30-60m and brush up on the core mechanics and rules before you arrive.  If we are doing a draft and you know your faction before game day, you may also want to review a faction guide to learn about their special abilities.  There are tons of content for either.  We posted some helpful links down below.
-*  Be punctual.  
-*  Be sure you can commit to a whole day of play.  Play time can vary wildly, between 4-12+ hours, depending on player count and any number of other variables.  We know it's a commitment, and we take steps to keep things moving.  [Help us help you!](https://www.youtube.com/watch?v=l1B1_jQnlFk&t=78s)
+In order to play your best game and be considerate of all players' time, we ask the following of first time players:
+*  Please take 30-60m and brush up on the core mechanics and rules before you arrive.  It's very helpful to know more or less how movement works, what the game rounds are, etc, so that we're not starting from scratch on game day.
+     * If we are doing a draft and know your faction before game day, you may also want to review a faction guide to learn about their special abilities.  
+     * There are tons of faction guides and how to play resources posted online.  We posted some helpful links down below.
+*  Please be punctual.  
+*  Please be sure you can commit to a whole day of play.  Play time can vary wildly, between 4-12+ hours, depending on player count and any number of other variables.  We know it's a commitment, and we take steps to keep things moving.  [Help us help you!](https://www.youtube.com/watch?v=l1B1_jQnlFk&t=78s)  
 
-Beginner Advice:
-* **Focus on the objectives!**  - Objectives are the boss.  TI:4 is not a wargame or even an area control/king of the hill game, although it has dynamics of each and can appear that way at a glance.  It's a race to score the most objective points the fastest.  Keep your eye on the prize!
-* **Recommended Factions for New Players** - We recommend lower complexity factions to new players.  This does not mean "weak".  Some of these factions are among the strongest in the game!  But their straightforward mechanics and timing windows reduce cognitive load, freeing new players up to learn all the new stuff and play their best game. 
-    * Argent Flight, Barony, Empyrean, Hacan, Jol Nar, L1Z1X, Naaz-Rokha, Nomad, Sol, Xxcha 
-* Tech - Movement is key for objectives, so keep an eye on blue and unit upgrades that grant movement.  Vanilla TI:4 guides leaned heavily into blue tech, but in PoK AI Dev and Psychoarcheology open up unit upgrade paths that had not previosuly been accessible.
-    * Also keep an eye on your faction specific tech/unit upgrades.
+
+Tips for your first game:
+* **Focus on the objectives!**  - Objectives are the boss.  TI:4 is not a wargame or even an area control/king of the hill game, although it has dynamics of each.  It's a race to score the most victory points the fastest.  Keep your eye on the prize!
 * Diplomacy and Trade - Find a buddy!  You'll have an easier game if you find at least one neighbor/trade partner willing to wash your commodities and (hopefully) take steps to establish a peaceful border.  Consider who you might want to exchange Support for the Throne points with early on, especially if there is an odd number of players at the table.
+* **Recommended Factions for New Players** - We recommend lower complexity factions to new players.  Some of these are the strongest in the game.  Their straightforward mechanics and timing windows reduce cognitive load, freeing new players to learn the game and play their best vs learning a high complexity faction's wonky abilities. 
+    * Argent Flight, Barony, Empyrean, Hacan, Jol Nar, L1Z1X, Naaz-Rokha, Nomad, Sol, Xxcha 
+* Tech - Movement is key for objectives, so keep an eye on blue tech and unit upgrades that grant movement.  Vanilla TI:4 guides leaned heavily into blue tech, but in Prophecy of Kings AI Dev and Psychoarcheology open up unit upgrade paths that had not previosuly been accessible.
+    * Also keep an eye on your faction specific tech/unit upgrades.  Some are junk.  Some are game/faction defining.  Don't be afraid to ask if you need help.
 * Combat - Where diplomacy ends, ass kicking begins! 
-    * Tactical aggression to complete an objective or block/secure a win can be good.  But as a general rule every fight you did not _need_ to be involved in slows down your objective momentum and drains your resources.  
+    * Tactical aggression to complete an objective or block/secure a win can be good.  But in general, every fight you did not _need_ to be involved in slows down your objective momentum and drains your resources.  
     * HP wins fights - Play around with one of the [battle calculators](https://ti4battle.com/) if you get bored, but the takeaway is that your ability to take hits and outlast damage is the most consistently reliable way to win combat.  Fancy tech and upgraded units are nice, but if you don't have the slickest faction abilities or you're struggling to ugprade tech, then building big/cheap fleets and stacking up lots of HP is a great way to take and hold territory.
-    * Space Combat for Show, Ground Combat for Dough - If you're trying to take territory, winning the space combat and losing the ground combat doesn't do you much good.  You drove all the way across the galaxy and now you're just circling the parking lot.  If you're going to invade, bring enough ground forces to win the planet.  
-    * Don't forget retreats!  Not every combat is to the death.  Retreats save your resources, and can be part of deals to swap planets/systems, or that help a faction get XYZ thing they need ("win a combat", "destroy/capture a unit", whatever) or even a sneaky forward move in the case of Dark Energy Tap or similar ability.
+    * "Space Combat for Show, Ground Combat for Dough" - If you're going to invade, bring enough ground forces to win the planet.  Winning the space combat and losing the ground combat sucks.  You drove all the way across the galaxy and now you're just circling the parking lot.  
+    * Don't forget retreats!  Not every combat is to the death.  Retreats save your resources, and can be part of deals to swap planets/systems, or help a faction get XYZ thing they need ("win a combat", "destroy/capture a unit", whatever) as part of a deal.  They can even be a sneaky forward move in the case of Dark Energy Tap or Skilled Retreat.
 * Stay in it until the end!  There are many paths to victory.  The front runners may trip each other up at the end, opening the door for you to sneak in a win from behind.  ["That's SO Twilight Imperium!"](https://www.youtube.com/watch?v=PLybps39ZwM&t=376s)
     * The Imperial strategy card can be a great catch up strategy if you fall behind on objective tempo in the early game.
 
 
 ### Organizing Game Days
-We play roughly once per month.  We send out a "save the date" calendar invite for the next game in advance, then gather RSVPs and feedback and adjust our game day's date/time/location based on group feedback.  When we've got enough players confirmed to lock in a date, we send out an updated invite to the players who have RSVPed with the location, start time, and any other particulars of the upcoming game.  
+We play roughly once per month.  We send out a "save the date" calendar invite for the next game in advance, then gather RSVPs and feedback and adjust game day details (date/time/location) based on group feedback.  When we've got enough players confirmed to lock in a date, we send out an updated invite to the players who have RSVPed with the location, start time, and any other particulars of the upcoming game.  
 
 For async comms, we have a group chat running on Facebook Messenger.  If you are not already in the chat and would like to be, please ask any group member for an invite.  We may organize other games or events through the Messenger chat as things come up. 
 
-In the event we get too many players responding, player seats will be reserved on a "first come, first served" basis.  So please be sure to RSVP promptly when you are sure you can commit to a game day.    
+In the event we get too many players responding, player seats will be reserved on a "first come, first served" basis.  We cannot hold slots for a "maybe".  So please be sure to RSVP promptly when you are sure you can commit to a game day.    
 
 
 ### Keeping it Fresh
@@ -47,10 +50,11 @@ TI:4 is an epic game with a lot of variety built in through the 25 player factio
 *  [Minor Factions](https://x.com/CreussEmissary/status/1792421868885959064/photo/2) - Rumored content for a future codex or expansion.  
 *  [Age of Exploration](https://x.com/CreussEmissary/status/1792421868885959064/photo/1) - Rumored content for a future codex or expansion.
 *  [Feast or Famine (4P)](https://boardgamegeek.com/thread/2325692/4-player-ti4-feast-and-famine)
+*  [Premade Maps](https://boardgamegeek.com/thread/2688681/database-preset-maps) - There are a variety of premade maps out there that can radically change up the game.  Some were included as part of Codex content.  Some are community maps.  We ever want to get weird with it, we should pull some of these in!
 *  [We're All Villains Here](https://www.youtube.com/watch?v=mFSyD5QyhqY) - Everyone plays a "bad" faction or galactic threat.
 
-Any particularly impactful changes to gameplay/strategy should be decided before we pick factions or select the map. 
- We will include any fun/random game mode changes in the game day invites so that people have time to prepare.
+
+Any impactful changes to gameplay/strategy should be decided before we pick factions or select the map.  We will include any fun/random game mode changes in the game day invites so that people have time to prepare.
 
 
 ### Rules We Forgot or Messed Up
@@ -59,7 +63,7 @@ Listen, there's a lot going on in this game.  Things can get wonky, and every ga
 * [Warfare secondary does not activate home system](https://www.tirules.com/R_warfare) - A strategy token is spent, but it is **not** placed in your home system.  
 * [Trade goods can be spent as resources/influence](https://twilight-imperium.fandom.com/wiki/Trade_Goods_%26_Commodities) - This includes following the secondary of Leadership.  But they cannot be used as influence for votes during the Agenda phase, unless another card/power allows that.
 * Starting Game Setup - Players place three command tokens in their tactics and fleet pools, and two in strategy.  Draw two secret objectives and return one to the bottom of the deck. [No action cards](https://www.tirules.com/R_action_cards#:~:text=Players%20start%20the%20game%20with,dealt%20out%20in%20initiative%20order.), [no commodities](https://www.tirules.com/R_commodities).
-* [Production](https://www.tirules.com/R_production) - Each fighter/infantry build during a PRODUCTION tactical action counts against the production limit that turn.
+* [Every fighter or infrantry counts against production limits](https://www.tirules.com/R_production) - Every unit built counts against your production limit when you use the PRODUCTION step of a tactical action.     
 * [Sling Relay](https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay), Chaos Mapping, etc - These techs allow you [to produce a unit](https://www.tirules.com/R_producing_units), but **do not** use the tactical action PRODUCTION, so discounts from Sarween and AI Dev (or other abilities) do not apply, nor do any abilities triggered by using PRODUCTION.  The wording could be better here.
 * [Imperial allows you to replace unscored Secret Objectives](https://www.tirules.com/R_imperial) - If you have more than three, you may draw a new secret objective and discard an unscored one.
 
