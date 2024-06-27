@@ -18,9 +18,9 @@ In order to play your best game and be considerate of all players' time, we ask 
 
 Tips for your first game:
 * **Focus on the objectives!**  - Objectives are the boss.  TI:4 is not a wargame or even an area control/king of the hill game, although it has dynamics of each.  It's a race to score the most victory points the fastest.  Keep your eye on the prize!
-* Diplomacy and Trade - Find a buddy!  You'll have an easier game if you find at least one neighbor/trade partner willing to wash your commodities and (hopefully) take steps to establish a peaceful border.  Consider who you might want to exchange Support for the Throne points with early on, especially if there is an odd number of players at the table.
-* **Recommended Factions for New Players** - We recommend lower complexity factions to new players.  Some of these are the strongest in the game.  Their straightforward mechanics and timing windows reduce cognitive load, freeing new players to learn the game and play their best vs learning a high complexity faction's wonky abilities. 
-    * Argent Flight, Barony, Empyrean, Hacan, Jol Nar, L1Z1X, Naaz-Rokha, Nomad, Sol, Xxcha 
+* **Diplomacy and Trade - Find a buddy!**  You'll have an easier game if you find at least one neighbor/trade partner willing to wash your commodities and (hopefully) take steps to establish a peaceful border.  Consider who you might want to exchange Support for the Throne points with early on, especially if there is an odd number of players at the table.
+* Factions - We recommend lower complexity factions for your first game.  Their straightforward mechanics and timing windows reduce cognitive load, freeing new players to learn the game and play their best vs learning a high complexity faction's wonky abilities.  
+    * **Recommended Factions for New Players** - Argent Flight, Barony, Empyrean, Hacan, Jol Nar, L1Z1X, Naaz-Rokha, Nomad, Sol, Xxcha 
 * Tech - Movement is key for objectives, so keep an eye on blue tech and unit upgrades that grant movement.  Vanilla TI:4 guides leaned heavily into blue tech, but in Prophecy of Kings AI Dev and Psychoarcheology open up unit upgrade paths that had not previosuly been accessible.
     * Also keep an eye on your faction specific tech/unit upgrades.  Some are junk.  Some are game/faction defining.  Don't be afraid to ask if you need help.
 * Combat - Where diplomacy ends, ass kicking begins! 
@@ -66,6 +66,22 @@ Listen, there's a lot going on in this game.  Things can get wonky, and every ga
 * [Every fighter or infantry counts against production limits](https://www.tirules.com/R_production) - Every unit built counts against your production limit when you use the PRODUCTION step of a tactical action.     
 * [Sling Relay](https://twilight-imperium.fandom.com/wiki/Propulsion_Technologies#Sling_Relay), Chaos Mapping, etc - These techs allow you [to produce a unit](https://www.tirules.com/R_producing_units), but **do not** use the tactical action PRODUCTION, so discounts from Sarween and AI Dev (or other abilities) do not apply, nor do any abilities triggered by using PRODUCTION.  The wording could be better here.
 * [Imperial allows you to replace unscored Secret Objectives](https://www.tirules.com/R_imperial) - If you have more than three, you may draw a new secret objective and discard an unscored one.
+
+
+### House Rules and Etiquette
+These aren't tournament or competition games.  We take TI:4 rules seriously and try to abide by all of them, but in discretionary situations "Rule of Fun" > all.  
+
+* A command token that has been placed in a system can be mulliganed at no penalty IFF nothing else has happened.
+    * Example:  Player A places a token, activating another Player B's home system in preparation to invade.  In any number of scenarios (Player B negotiates them off, or Player A realizes he can't get all his ships there, whatever), Player A can mulligan his token placement and take another action as long as they have not moved a ship, no action cards have been played, etc.  Moving plastic or anybody taking any relevant subsequent actions triggers "laid it played it".
+* The first player to vote on an Agenda decides how long open table talk over the agenda lasts.  He or she may end table talk at any time by casting their vote.  
+* Distant Suns - Naaz Rohka must declare when they are using Distant Suns to avoid angle shooting the deck.  
+* Milty Draft - Milty configs and such are always open for discussion amongst players who have confirmed for game day.  Our primary use for Milty right now is to speed up setup on game days.  We default to the following:
+    * Config - At least 2 alpha and beta wormholes, a max of one wormhole per slice, and both Legendary planets.  We typically counter balance this by generating N+2 slices.
+    * Factions - All factions available.
+    * Neighboring Red Tiles - Once the draft is complete and the map is resolved, starting with last position and going in reverse speaker order, any player whose slice is impacted by two red tiles adjacent to each other will have the choice of swapping one of the red tiles within their slice with one of the blue tiles in their slice that is adjacent to it.  The player may decline. If their action/inaction creates another "two red tile adjacent" issue for the next player up the order, that player gets the same choice, cascading until the map creation rules are satisfied or all impacted players have passed.
+        * Why? - We had three red tiles adjacent once.  Good times... 
+* Please talk through your turn - "I'm doing XYZ which triggers PQN" is fine.  Action logs help players learn, keep everyone honest, and can help players realize/avoid honest mistakes.
+* [Support for the Throne](https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne) - There are reams written about this online.  We don't have any rules.  We strongly encourage Support deals by the end of Round 4.  But if you want to incur a blood vendetta by giving someone a Support point for the win, feel free!  Just don't be surprised if one or more players are gunning for you next game. 
 
 
 ### Links and Resources
