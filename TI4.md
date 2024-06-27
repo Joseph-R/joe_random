@@ -43,16 +43,15 @@ In the event we get too many players responding, player seats will be reserved o
 ### Keeping it Fresh
 TI:4 is an epic game with a lot of variety built in through the 25 player factions, variable map setup, different neighbors, and randomized objectives and agendas.  There's a lot of content here.  To mix it up even more, there are optional game modes, community content, and other modular changes we can pull in.  These include the following:
 
-*  [4/4/4 to 12VP](https://www.youtube.com/watch?v=qIVU-4sjaXE) - Community variant where you play with four stage one objectives, four stage two objectives, and four secret objectives.  This accelerates point tempo, effectively speeding up the game.
+*  [4/4/4 to 12VP](https://www.youtube.com/watch?v=qIVU-4sjaXE) - Community variant where you play with four stage one objectives, four stage two objectives, and up to four scorable secret objectives.  This takes some of the pressure off of the first Stage II objective reveal, accelerates point tempo, and effectively speeds up the game.
 *  [Alliance Mode](https://twilight-imperium.fandom.com/wiki/Alliance_Game_Variant) - Optional playmode for alliances. 
 *  [Absol's Agendas](https://drive.google.com/drive/folders/1HMq6XEd5-kbOScwSCypOwytkanwOXfEj) - Community agenda deck.  Notably "spicier" and more impactful than the stock agenda deck, for those who wish the Agenda phase was more impactful on the game.  
-*  [Absol's Relics](https://drive.google.com/drive/folders/1-E-Rnsb0VUoluRy5LrURZg2o2V8iw3gZ) - Community relic deck.  Includes tweaks to existing relics and adds some artwork.  Notably adds more Shards of the Throne relics, which grant a stealable victory point.  This can shorten the game and/or induce more conflict.
-*  [Minor Factions](https://x.com/CreussEmissary/status/1792421868885959064/photo/2) - Rumored content for a future codex or expansion.  
-*  [Age of Exploration](https://x.com/CreussEmissary/status/1792421868885959064/photo/1) - Rumored content for a future codex or expansion.
+*  [Absol's Relics](https://drive.google.com/drive/folders/1-E-Rnsb0VUoluRy5LrURZg2o2V8iw3gZ) - Community relic deck.  Includes tweaks to existing relics and adds some artwork.  Notably adds more Shards of the Throne relics, which grant a stealable victory point.  This relic deck can shorten the game and/or induce more conflict.
+*  [Minor Factions](https://x.com/CreussEmissary/status/1792421868885959064/photo/2) - Rumored content for a future codex/expansion.  
+*  [Age of Exploration](https://x.com/CreussEmissary/status/1792421868885959064/photo/1) - Rumored content for a future codex/expansion.
 *  [Feast or Famine (4P)](https://boardgamegeek.com/thread/2325692/4-player-ti4-feast-and-famine)
-*  [Premade Maps](https://boardgamegeek.com/thread/2688681/database-preset-maps) - There are a variety of premade maps out there that can radically change up the game.  Some were included as part of Codex content.  Some are community maps.  We ever want to get weird with it, we should pull some of these in!
-*  [We're All Villains Here](https://www.youtube.com/watch?v=mFSyD5QyhqY) - Everyone plays a "bad" faction or galactic threat.
-
+*  [Community Maps](https://boardgamegeek.com/thread/2688681/database-preset-maps) - There are a variety of premade maps out there that can radically change up the game.  Some were included as part of Codex content.  Some are community maps.  Want to get weird with it?  Pull some of these in.
+*  [We're All Villains Here](https://www.youtube.com/watch?v=mFSyD5QyhqY) - Everyone plays a "evil" faction or galactic threat.
 
 Any impactful changes to gameplay/strategy should be decided before we pick factions or select the map.  We will include any fun/random game mode changes in the game day invites so that people have time to prepare.
 
@@ -69,16 +68,16 @@ Listen, there's a lot going on in this game.  Things can get wonky, and every ga
 
 
 ### House Rules and Etiquette
-These aren't tournament or competition games.  We take TI:4 rules seriously and try to abide by all of them, but in discretionary situations "Rule of Fun" > all.  
+These aren't tournament or competition games.  We try to play by the book, but in discretionary situations "Rule of Fun" > all.  
 
 * A command token that has been placed in a system can be mulliganed at no penalty IFF nothing else has happened.
     * Example:  Player A places a token, activating another Player B's home system in preparation to invade.  In any number of scenarios (Player B negotiates them off, or Player A realizes he can't get all his ships there, whatever), Player A can mulligan his token placement and take another action as long as they have not moved a ship, no action cards have been played, etc.  Moving plastic or anybody taking any relevant subsequent actions triggers "laid it played it".
 * The first player to vote on an Agenda decides how long open table talk over the agenda lasts.  He or she may end table talk at any time by casting their vote.  
 * Distant Suns - Naaz Rohka must declare when they are using Distant Suns to avoid angle shooting the deck.  
-* Milty Draft - Milty configs and such are always open for discussion amongst players who have confirmed for game day.  Our primary use for Milty right now is to speed up setup on game days.  We default to the following:
-    * Config - At least 2 alpha and beta wormholes, a max of one wormhole per slice, and both Legendary planets.  We typically counter balance this by generating N+2 slices.
+* Milty Draft - Game parameters, including Milty draft settings, are always available for discussion amongst the players confirmed for game day.  Our primary use for Milty right now is to speed up setup on game days.  We default to the following:
+    * MapGen - At least 2 alpha and beta wormholes, a max of one wormhole per slice, and both Legendary planets.  We typically counter balance this by generating N+2 slices.
     * Factions - All factions available.
-    * Neighboring Red Tiles - Once the draft is complete and the map is resolved, starting with last position and going in reverse speaker order, any player whose slice is impacted by two red tiles adjacent to each other will have the choice of swapping one of the red tiles within their slice with one of the blue tiles in their slice that is adjacent to it.  The player may decline. If their action/inaction creates another "two red tile adjacent" issue for the next player up the order, that player gets the same choice, cascading until the map creation rules are satisfied or all impacted players have passed.
+    * Neighboring Red Tiles - Once the draft is complete and the map is resolved, starting with last position and going in ascending order, any player whose slice is impacted by two red tiles adjacent to each other will have the choice of swapping one of the red tiles within their slice with an adjacent blue tile within their slice.  The player may decline. If their action/inaction creates another "two red tile adjacent" issue for the next player up the order, that player gets the same choice, cascading until the map creation rules are satisfied or all impacted players have passed.
         * Why? - We had three red tiles adjacent once.  Good times... 
 * Please talk through your turn - "I'm doing XYZ which triggers PQN" is fine.  Action logs help players learn, keep everyone honest, and can help players realize/avoid honest mistakes.
 * [Support for the Throne](https://twilight-imperium.fandom.com/wiki/Promissory_Notes#Support_for_the_Throne) - There are reams written about this online.  We don't have any rules.  We strongly encourage Support deals by the end of Round 4.  But if you want to incur a blood vendetta by giving someone a Support point for the win, feel free!  Just don't be surprised if one or more players are gunning for you next game. 
